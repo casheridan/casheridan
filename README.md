@@ -24,4 +24,4 @@
 - Owner of [Sevarc Software](https://sevarcsoft.com)
 - Loves a freshly brewed cup of coffee
 
-![Metrics]()
+![Metrics](https://raw.githubusercontent.com/casheridan/casheridan/github-metrics/github-metrics.svg)

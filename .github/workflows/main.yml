@@ -25,7 +25,7 @@ jobs:
           user: casheridan
           template: classic
           base: header, activity, community
-          config_timezone: Europe/Oslo
+          config_timezone: US/Central
 
           # Language plugin
           plugin_languages: yes

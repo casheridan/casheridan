@@ -17,9 +17,9 @@
 
 <br>
 
-## I am Christian Sheridan
+## I am Anthony Sheridan
 
-- Technical Apprentice at [Cerner Corporation](https://www.cerner.com/)
+- Technical Apprentice/Software Developer at [Oracle](https://www.oracle.com/)
 - Apart of the PowerChart & Info Exchange team
 - Owner of [Sevarc Software](https://sevarcsoft.com)
 - Loves a freshly brewed cup of coffee

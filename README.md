@@ -17,7 +17,7 @@
 
 <br>
 
-## I am Anthony Sheridan
+## I am Christian Sheridan
 
 - Technical Apprentice/Software Developer at [Oracle](https://www.oracle.com/)
 - Apart of the PowerChart & Info Exchange team

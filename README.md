@@ -19,9 +19,8 @@
 
 ## I am Christian Sheridan
 
-- Technical Apprentice/Software Developer at [Oracle](https://www.oracle.com/)
-- Apart of the PowerChart & Info Exchange team
+- Programmer I at [AAON](https://www.aaon.com/)
+- Apart of the SMT Production team at AAON
 - Owner of [Sevarc Software](https://sevarcsoft.com)
-- Loves a freshly brewed cup of coffee
 
 ![Metrics](https://github.com/casheridan/casheridan/blob/master/github-metrics.svg)

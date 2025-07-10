@@ -19,8 +19,9 @@
 
 ## I am Christian Sheridan
 
-- Programmer I at [AAON](https://www.aaon.com/)
-- Apart of the SMT Production team at AAON
+- Automation Technician I at [AAON](https://www.aaon.com/)
+- Apart of the SMTA team at AAON
+- CTO & Co-Founder of [SiteScan](https://sitescan.build)
 - Owner of [Sevarc Software](https://sevarcsoft.com)
 
 ![Metrics](https://github.com/casheridan/casheridan/blob/master/github-metrics.svg)
